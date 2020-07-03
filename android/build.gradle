@@ -45,7 +45,11 @@ repositories {
 }
 
 dependencies {
+<<<<<<< Updated upstream
     implementation ('org.jitsi.react:jitsi-meet-sdk:2.4.0') {
+=======
+    implementation ('org.jitsi.react:jitsi-meet-sdk:2.9.0') {
+>>>>>>> Stashed changes
       transitive = true
     }
 }
